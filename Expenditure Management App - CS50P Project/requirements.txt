@@ -1,0 +1,5 @@
+Imported TKinter Library for GUI
+Used as:
+        import tkinter as tk
+        from tkinter import messagebox
+        from tkinter import ttk
